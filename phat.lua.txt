@@ -1,0 +1,3 @@
+_G.Name = "Mr.Phat" -- Put You Name Script Here
+_G.Logo = "https://www.roblox.com/library/10842366988/anime-girl" -- Enter Your ID Image Here
+loadstring(Game:HttpGet"https://raw.githubusercontent.com/ImTienNguyenZ/NguyenTienSimpRose/main/NguyenMinhTienLoader")()
